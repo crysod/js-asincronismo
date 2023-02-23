@@ -16,8 +16,8 @@ setTimeout(function(){
 
 //************************************************************************************************************** */ */
 
-function gretting(name){
+function greetings(name){
     console.log(`hello ${name}`);
 }
 
-setTimeout(gretting, 2000, 'Cristian');
+setTimeout(greetings, 2000, 'christian');
