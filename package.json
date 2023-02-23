@@ -1,0 +1,30 @@
+{
+  "name": "js-asincronismo",
+  "version": "1.0.0",
+  "description": "Recopilacion de los aspectobas basicos del asincronismo en js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crysod/js-asincronismo.git"
+  },
+  "keywords": [
+    "js",
+    "node",
+    "asincronismo",
+    "async",
+    "await",
+    "promises"
+  ],
+  "author": "Cristian Fernando Ortega Diaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crysod/js-asincronismo/issues"
+  },
+  "homepage": "https://github.com/crysod/js-asincronismo#readme",
+  "dependencies": {
+    "update": "^0.7.4"
+  }
+}
