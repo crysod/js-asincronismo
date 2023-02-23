@@ -4,7 +4,7 @@
   "description": "Recopilacion de los aspectobas basicos del asincronismo en js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "callback": "node src/callback/challenge.js"
   },
   "repository": {
     "type": "git",
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/crysod/js-asincronismo#readme",
   "dependencies": {
-    "update": "^0.7.4"
+    "update": "^0.7.4",
+    "xmlhttprequest": "^1.8.0"
   }
 }
